@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_reflection_poo3", "exercicio_reflection_poo3\exercicio_reflection_poo3.csproj", "{EEE56B71-C1BF-4B85-BFC1-3B3500409D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE56B71-C1BF-4B85-BFC1-3B3500409D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE56B71-C1BF-4B85-BFC1-3B3500409D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE56B71-C1BF-4B85-BFC1-3B3500409D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE56B71-C1BF-4B85-BFC1-3B3500409D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4410CAED-D9E6-4E1B-907B-115CB69492A7}
+	EndGlobalSection
+EndGlobal

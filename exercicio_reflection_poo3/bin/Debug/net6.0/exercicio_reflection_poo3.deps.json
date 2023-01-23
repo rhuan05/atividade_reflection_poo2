@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exercicio_reflection_poo3/1.0.0": {
+        "runtime": {
+          "exercicio_reflection_poo3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio_reflection_poo3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

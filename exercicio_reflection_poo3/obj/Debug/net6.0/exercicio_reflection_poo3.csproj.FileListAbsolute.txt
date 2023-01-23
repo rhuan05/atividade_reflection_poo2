@@ -1,0 +1,15 @@
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\bin\Debug\net6.0\exercicio_reflection_poo3.exe
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\bin\Debug\net6.0\exercicio_reflection_poo3.deps.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\bin\Debug\net6.0\exercicio_reflection_poo3.runtimeconfig.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\bin\Debug\net6.0\exercicio_reflection_poo3.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\bin\Debug\net6.0\exercicio_reflection_poo3.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\exercicio_reflection_poo3.csproj.AssemblyReference.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\exercicio_reflection_poo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\exercicio_reflection_poo3.AssemblyInfoInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\exercicio_reflection_poo3.AssemblyInfo.cs
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\exercicio_reflection_poo3.csproj.CoreCompileInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\exercicio_reflection_poo3.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\refint\exercicio_reflection_poo3.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\exercicio_reflection_poo3.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\exercicio_reflection_poo3.genruntimeconfig.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\exercicio_reflection_poo3\exercicio_reflection_poo3\obj\Debug\net6.0\ref\exercicio_reflection_poo3.dll
